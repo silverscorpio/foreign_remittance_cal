@@ -1,3 +1,4 @@
-### Foreign Remittance to Home Country - Fees and Tax Calculation
+## Foreign Remittance Calculation
 
-Calculates the net amount received in home country bank from a foreign bank alongwith all the taxes and fees incurred during the transaction
+- small python program to assist (with automating several calculations!) in calculating various fees and taxes involved while transferring money from abroad to home country
+- uses an external currency API to fetch the latest exchange rate
